@@ -1,5 +1,5 @@
-# droplet
-a drip drop an animated water drop button
+# Droplet
 
-click here to see it; 
-[Droplet]([https://link-url-here.org](https://maxfinnsjo.github.io/droplet/droplet.html))
+An animated water drop button with a satisfying drip-drop effect.
+
+[Click here to see it in action](https://maxfinnsjo.github.io/droplet/droplet.html)
